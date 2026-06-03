@@ -4,7 +4,7 @@
 
 ### Frontend Developer | Mobile App Developer
 
-*"Keep learning, keep building."*
+
 
 </div>
 
@@ -45,30 +45,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
 
 ## 🎯 Current Focus
 
 - ReactJS Development
 - React Native Mobile Applications
 - UI/UX Improvements
-- Cloud Services with AWS
 - Database Design & Management
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/ngtrkhanh21
